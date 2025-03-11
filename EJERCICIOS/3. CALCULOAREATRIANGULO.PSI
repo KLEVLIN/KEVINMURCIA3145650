@@ -1,0 +1,8 @@
+Algoritmo CALCULOAREATRIANGULO
+	Escribir "ingrese base del triangulo:"
+	Leer base
+	Escribir "ingrese altura del triangulo:"
+	Leer altura
+	area <- (base * altura) /2
+	Escribir "su area es:", area	
+FinAlgoritmo

@@ -1,0 +1,6 @@
+Algoritmo CONVERCIONTEMPERATURA
+	Escribir "Ingrese la temperatura en grados celsius:"
+	Leer celsius
+	FAHRENHEIT <- (celsius * 9/5) + 32
+	Escribir "la temperatura en fahrenheit es:", FAHRENHEIT
+FinAlgoritmo

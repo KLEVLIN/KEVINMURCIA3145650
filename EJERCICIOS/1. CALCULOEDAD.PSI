@@ -1,0 +1,8 @@
+Algoritmo CALCULOEDAD
+	Escribir"Ingrese su ano de nacimiento:"
+	Leer anonacimiento 
+	Escribir"ingrese ano actual:"
+	Leer anoactual
+	edad <- anoactual - anonacimiento
+	Escribir "su edad es:", edad
+FinAlgoritmo
